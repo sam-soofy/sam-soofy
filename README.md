@@ -1,6 +1,10 @@
 # Hi there, I'm Sam Soofy (@sam-soofy) :wave:
 
-I'm a **passionate** mid-level backend software engineer with a Postgraduate Diploma in Software Engineering. I live and breathe code—from building robust web applications to automating processes with **Python** and **JavaScript**. Whether I'm developing cool Telegram bots, crafting scalable web apps using Express.js, FastAPI, and Django, or diving into network and Linux administration, I'm always fueled by curiosity and a love for solving problems. :rocket: :fire:
+I am a **seasoned software** and **DevOps** engineer lover with **6 years** of combined academic and hands-on experience developing robust web applications and automation solutions.
+
+While my primary focus is backend development, I have also contributed to all stages of the web application lifecycle. I also recently started diving into Blockchain and Web3 technologies. I hold a Postgraduate Diploma degree in Software Engineering and have a proven track record in building scalable systems using Python, JavaScript and recently Go.
+
+My expertise includes common web frameworks, database ORMs & ODMs, along with networking, Linux administration, and automation via Python and Bash. Currently, I am exploring NestJS, TypeScript, Go language ecosystem and data manipulation skills to drive innovation in future projects. :rocket: :fire:
 
 <br><be>
 
