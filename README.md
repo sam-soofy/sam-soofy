@@ -109,7 +109,7 @@ A diverse collection of freelance projects showcasing adaptability, creativity, 
 
 ## 💡 Technologies & Tools
 
-- **Languages:** Python, JavaScript, TypeScript 
+- **Languages:** Python, JavaScript, TypeScript, SQL
 - **Frameworks:** Socket.io, Express.js, NestJs, FastAPI, Django, Celery
 - **Testing:** Jest, Supertest, Playwright
 - **Message Brokers:** NATS.io
