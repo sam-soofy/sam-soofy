@@ -1,10 +1,13 @@
 # Hi there, I'm Sam Soofy (@sam-soofy) :wave:
 
-I am a **seasoned software** and **DevOps** engineer lover with **6 years** of combined academic and hands-on experience developing robust web applications and automation solutions.
+I am a **seasoned senior back-end software engineer** with **over 7 years** of combined academic and hands-on experience developing robust web applications and automation solutions.
 
-While my primary focus is backend development, I have also contributed to all stages of the web application lifecycle. I also recently started diving into Blockchain and Web3 technologies. I hold a Postgraduate Diploma degree in Software Engineering and have a proven track record in building scalable systems using Python, JavaScript and recently Go.
+While my primary focus is backend development, I have also contributed to all stages of the web application lifecycle.
 
-My expertise includes common web frameworks, database ORMs & ODMs, along with networking, Linux administration, and automation via Python and Bash. Currently, I am exploring NestJS, TypeScript, Go language ecosystem and data manipulation skills to drive innovation in future projects. :rocket: :fire:
+I also recently started diving into Blockchain and Web3 technologies. I hold a
+Postgraduate Diploma degree in Software Engineering and have a proven track record in building scalable systems using Python, JavaScript and recently Go.
+
+My expertise includes common web frameworks, database ORMs & ODMs, along with networking,Linux administration, and automation via Python and Bash. Currently, I am exploring NestJS, TypeScript, Go language ecosystem and data manipulation skills to drive innovation in future projects. :rocket: :fire:
 
 <br><be>
 
@@ -107,7 +110,7 @@ A diverse collection of freelance projects showcasing adaptability, creativity, 
 ## 💡 Technologies & Tools
 
 - **Languages:** Python, JavaScript  
-- **Frameworks:** Socket.io, Express.js, FastAPI, Django  
+- **Frameworks:** Socket.io, Express.js, FastAPI, Django, Celery
 - **Testing:** Jest, Supertest, Playwright
 - **Message Brokers:** NATS.io
 - **Databases:** PostgreSQL, MySQL, MongoDB, Redis
