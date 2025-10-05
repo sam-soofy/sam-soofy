@@ -10,6 +10,25 @@ Expert in Python and JS/TS ecosystems, including FastAPI, Django, Express.js, Ne
 
 <br><br>
 
+
+### **L. Crypto Exchange** :robot:
+A crypto exchanging platform, that I joined their team to develop more features for it, polish it, maintain it, and leading of the technical juniors.
+
+**Core Features:**
+- **🔐 JWT-based Authentication & Authorization:** Secure user sessions using JSON Web Tokens.
+- **🛡️ Comprehensive Security Layer:** Implements rate limiting, XSS protection, and input sanitization.
+- **📦 Postgres Integration:** Efficient database connectivity for scalable performance.
+- **📊 Metabase:** Stablishing Metabase and writing many analysis of our data.
+- **🔄 Containers and Cloud Services:** Flexible deployment through the power of containers.
+- **🚦 Request Validation & Sanitization:** Robust validation to ensure data integrity.
+- **📝 Structured Error Handling:** Clear and consistent error management across the API.
+- **🔍 Advanced Query Support:** Enables complex search and filtering operations.
+- **📊 Pagination Implementation:** Smooth handling of large datasets.
+- **📡 NATS.io Message Broker:** Facilitates seamless inter-service communication using the NATS messaging system.
+- **💬 Socket.io Real-Time Communication:** Enables bidirectional, real-time communication between client and server.
+
+---
+
 ### **SorenHQ Market Express** :robot:
 A robust marketplace API built with Express.js, featuring modern architecture, microservices, and industry best practices for tool/plugin management.
 
