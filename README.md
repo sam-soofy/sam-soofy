@@ -1,13 +1,8 @@
 # Hi there, I'm Sam Soofy (@sam-soofy) :wave:
 
-I am a **seasoned senior back-end software engineer** with **over 7 years** of combined academic and hands-on experience developing robust web applications and automation solutions.
+I am a **Semi-Senior Software Engineer and Back-end Developer**. Veteran Developer with 7+ years of hands-on and academic experience crafting secure, scalable web applications and automation tools that boost operational efficiency.
 
-While my primary focus is backend development, I have also contributed to all stages of the web application lifecycle.
-
-I also recently started diving into Blockchain and Web3 technologies. I hold a
-Postgraduate Diploma degree in Software Engineering and have a proven track record in building scalable systems using Python, JavaScript and recently Go.
-
-My expertise includes common web frameworks, database ORMs & ODMs, along with networking,Linux administration, and automation via Python and Bash. Currently, I am exploring NestJS, TypeScript, Go language ecosystem and data manipulation skills to drive innovation in future projects. :rocket: :fire:
+Expert in Python and JS/TS ecosystems, including FastAPI, Django, Express.js, NestJS, and Next.js, paired with relational (SQL/ ORMs) and non-relational (NoSQL/ODMs) databases. Proficient in CI/CD pipelines, web security protocols, Linux administration, networking, and scripting with Python/Bash to streamline full application lifecycles. With prior blockchain integrations enhancing data integrity, I'm now deepening skills in JavaScript, TypeScript, microservices, and advanced data engineering to architect high-performance solutions for dynamic teams. :rocket: :fire:
 
 <br><be>
 
