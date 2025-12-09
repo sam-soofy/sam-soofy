@@ -1,150 +1,117 @@
-# Hi there, I'm Sam Soofy (@sam-soofy) :wave:
+# Hi there, I'm Sam Soofy (@sam-soofy) 👋
 
-I am a **Semi-Senior Software Engineer and Back-end Developer**. Veteran Developer with 7+ years of hands-on and academic experience crafting secure, scalable web applications and automation tools that boost operational efficiency.
+Experienced full‑stack engineer with 7+ years of hands‑on experience designing and building secure, scalable systems.
+I enjoy taking products from idea to production: APIs, data models, automation, infrastructure, and everything around them, with a background that spans crypto, marketplaces, automation tooling, and occasional blockchain integrations.
 
-Expert in Python and JS/TS ecosystems, including FastAPI, Django, Express.js, NestJS, and Next.js, paired with relational (SQL/ ORMs) and non-relational (NoSQL/ODMs) databases. Proficient in CI/CD pipelines, web security protocols, Linux administration, networking, and scripting with Python/Bash to streamline full application lifecycles. With prior blockchain integrations enhancing data integrity, I'm now deepening skills in JavaScript, TypeScript, microservices, and advanced data engineering to architect high-performance solutions for dynamic teams. :rocket: :fire:
+- 🧠 **Core:** Python · JavaScript/TypeScript · SQL/NoSQL
+- 🏗️ **Backend:** FastAPI · Django REST · Express.js · NestJS · Next.js APIs
+- 💾 **Data:** PostgreSQL · MongoDB · Redis · data pipelines & ETL
+- 🔁 **Messaging & Realtime:** NATS.io · WebSockets · Socket.io
+- 🧪 **Quality:** automated tests (Jest, Supertest, Playwright) · robust error handling
+- 🐧 **Ops:** Docker · Linux · networking · CI/CD and deployment pipelines
 
-<br><be>
-
-## 🚀 My Top Projects (These are my highlights—not every project I've done!)
-
-<br><br>
-
-
-### **L. Crypto Exchange** :robot:
-A crypto exchanging platform, that I joined their team to develop more features for it, polish it, maintain it, and leading of the technical juniors.
-
-**Core Features:**
-- **🔐 JWT-based Authentication & Authorization:** Secure user sessions using JSON Web Tokens.
-- **🛡️ Comprehensive Security Layer:** Implements rate limiting, XSS protection, and input sanitization.
-- **📦 Postgres Integration:** Efficient database connectivity for scalable performance.
-- **📊 Metabase:** Stablishing Metabase and writing many analysis of our data.
-- **🔄 Containers and Cloud Services:** Flexible deployment through the power of containers.
-- **🚦 Request Validation & Sanitization:** Robust validation to ensure data integrity.
-- **📝 Structured Error Handling:** Clear and consistent error management across the API.
-- **🔍 Advanced Query Support:** Enables complex search and filtering operations.
-- **📊 Pagination Implementation:** Smooth handling of large datasets.
-- **📡 NATS.io Message Broker:** Facilitates seamless inter-service communication using the NATS messaging system.
-- **💬 Socket.io Real-Time Communication:** Enables bidirectional, real-time communication between client and server.
+I care about clean architecture, observability, security, and making systems easy to operate for teams that live with them every day.
 
 ---
 
-### **SorenHQ Market Express** :robot:
-A robust marketplace API built with Express.js, featuring modern architecture, microservices, and industry best practices for tool/plugin management.
+## 🔭 What I'm Working On
 
-**Core Features:**
-- **🔐 JWT-based Authentication & Authorization:** Secure user sessions using JSON Web Tokens.
-- **🛡️ Comprehensive Security Layer:** Implements rate limiting, XSS protection, and input sanitization.
-- **📦 MongoDB Integration with Singleton Pattern:** Efficient database connectivity for scalable performance.
-- **🔄 Tool/Plugin Management System:** Flexible framework for integrating and managing various tools/plugins.
-- **🚦 Request Validation & Sanitization:** Robust validation to ensure data integrity.
-- **📝 Structured Error Handling:** Clear and consistent error management across the API.
-- **🔍 Advanced Query Support:** Enables complex search and filtering operations.
-- **📊 Pagination Implementation:** Smooth handling of large datasets.
-- **📡 NATS.io Message Broker:** Facilitates seamless inter-service communication using the NATS messaging system.
-- **💬 Socket.io Real-Time Communication:** Enables bidirectional, real-time communication between client and server.
+- **Multi‑stack Issue Tracker Series**  
+  A study‑oriented project where I implement the same issue‑tracking product across multiple stacks to compare patterns and trade‑offs:
+  - Full‑stack **Next.js** app (this repo)
+  - **NestJS** backend API
+  - **FastAPI** backend API
+  - **Django REST Framework** backend API
+  - **Next.js** frontend‑only app
+  - **React.js** SPA frontend
 
----
+- **Production‑grade Backends**  
+  Building and evolving APIs for marketplaces, crypto platforms, and plugin systems with authentication, observability, and strong security baselines.
 
-### **Plugins for Many Service Providers** :robot:
-A suite of plugins designed as key components for a larger enterprise project—each serving as a gateway to different service providers and integrating diverse features into company applications.
-
-**Core Features:**
-- **🔌 Seamless Service Integration:** Connects effortlessly with multiple service APIs.
-- **⚙️ Modular Architecture:** Easily extendable design for adding new plugins.
-- **🔄 Real-Time Data Synchronization:** Keeps all connected services updated.
-- **🛡️ Security & Compliance:** Implements robust protocols for data protection.
-- **📝 Unified Plugin Management:** Centralized control and monitoring across all plugins.
+- **Data & Analytics Track**  
+  Deepening my skills in **data engineering and data science with Python** (Pandas, NumPy, statistics, notebooks, and data visualization), experimenting with **ML and AI agents**, and integrating those skills back into backend and analytics workflows.
 
 ---
 
-### **E-Commerce Web Platform** :shopping_cart:
-A full-stack solution built with Express.js that powers a dynamic online store with seamless database integration (PostgreSQL and MongoDB).
+## 🧩 Selected Projects
 
-**Core Features:**
-- **🛍️ User-Friendly Shopping Experience:** Intuitive interface for browsing and purchasing.
-- **💳 Secure Payment Processing:** Integrates with trusted payment gateways.
-- **🔄 Real-Time Inventory Management:** Accurate tracking of product stock levels.
-- **📊 Sales Analytics & Reporting:** Provides actionable insights on customer behavior.
-- **🚀 Scalable Infrastructure:** Designed to handle high traffic with ease.
-- **📝 Comprehensive Order Tracking:** Detailed order history and status updates.
+### L. Crypto Exchange
+Backend engineer on a crypto exchange platform: adding new features, hardening security, and mentoring junior developers.
 
----
-
-### **Telegram Automation Suite** :robot:
-An innovative project that integrates both Telegram bot and client APIs to streamline daily tasks and elevate communication efficiency.
-
-**Core Features:**
-- **🤖 Automated Messaging:** Simplifies sending and receiving messages automatically.
-- **🔄 Dual API Integration:** Combines bot and client functionalities for enhanced interaction.
-- **⏰ Scheduled Task Execution:** Automates recurring tasks and reminders.
-- **📈 Engagement Analytics:** Monitors usage and performance metrics.
-- **🛡️ Robust Security Measures:** Ensures reliable and secure operation.
+- JWT‑based auth & authorization, request validation, and structured error handling
+- Postgres‑backed services, advanced querying, pagination, and analytics via Metabase
+- Event‑driven features with **NATS.io** and realtime updates over **Socket.io**
+- Containerized deployment and cloud‑ready architecture
 
 ---
 
-### **Network & Linux Admin Toolkit** :computer:
-A collection of Python and Bash scripts designed to simplify server management and network operations.
+### SorenHQ Market Express
+A marketplace API built with **Express.js**, focusing on modular design and clean microservice‑friendly patterns.
 
-**Core Features:**
-- **🔧 Task Automation:** Streamlines routine system administration tasks.
-- **📡 Network Monitoring:** Provides real-time insights into network performance.
-- **🛠️ Customizable Scripts:** Easily adaptable to specific operational needs.
-- **🚀 Rapid Deployment:** Accelerates system setup and configuration.
-- **📝 Detailed Logging & Reporting:** Facilitates troubleshooting and system audits.
+- JWT auth, input validation/sanitization, and a layered security model
+- MongoDB integration with a clean connection management pattern
+- Plugin/tool management system and advanced search/filtering with pagination
+- NATS.io for inter‑service messaging and Socket.io for realtime features
 
 ---
 
-### **Data & Math Exploration Framework** :bar_chart:
-An evolving framework that blends data manipulation with advanced mathematical techniques to unlock new analytical possibilities.
+### Service Provider Plugin Suite
+A suite of plugins acting as gateways to various third‑party providers inside a larger enterprise system.
 
-**Core Features:**
-- **📊 Dynamic Data Analysis:** Tools for in-depth exploration and visualization.
-- **🔢 Advanced Mathematical Algorithms:** Implements state-of-the-art computations.
-- **💡 Modular Design:** Easily extendable for future analytical modules.
-- **🚀 Real-Time Data Processing:** Efficient handling of large datasets.
-- **📝 Comprehensive Reporting:** Generates clear and actionable insights.
+- Modular, extensible architecture for adding new providers quickly
+- Unified error handling and logging across plugins
+- Emphasis on clear contracts, observability, and safe rollout of integrations
 
 ---
 
-### **Freelance Ventures Portfolio** :briefcase:
-A diverse collection of freelance projects showcasing adaptability, creativity, and a commitment to delivering high-quality, collaborative solutions.
+### Telegram Automation Suite
+Automation around Telegram using both bot and client APIs to streamline workflows.
 
-**Core Features:**
-- **🌐 Wide-Ranging Projects:** Experience across multiple industries and technologies.
-- **🛠️ Custom-Built Solutions:** Tailored approaches for unique client needs.
-- **🤝 Collaborative Development:** Demonstrated team-based agile methodologies.
-- **📈 Consistent Quality:** Proven track record of successful project delivery.
-- **📝 Thorough Documentation:** Clear project overviews and usage instructions.
+- Scheduled jobs, reminders, and message automation
+- Analytics around engagement and usage
+- Focus on reliability and safe operation in long‑running processes
 
 ---
 
-<br><br>
+### Network & Linux Admin Toolkit
+Python and Bash tooling for Linux and network administration.
 
-## 💡 Technologies & Tools
+- Automates frequent operational tasks and server maintenance
+- Network monitoring, diagnostics, and reporting scripts
+- Designed to be composable and easy to extend
+
+---
+
+## ⚙️ Technologies & Tools
 
 - **Languages:** Python, JavaScript, TypeScript, SQL
-- **Frameworks:** Socket.io, Express.js, NestJs, FastAPI, Django, Celery
-- **Testing:** Jest, Supertest, Playwright
-- **Message Brokers:** NATS.io
-- **Databases:** PostgreSQL, MySQL, MongoDB, Redis
-- **Web Crawling:** Request, Beautifulsup, HTTPX, PlayWright
-- **Tools:** Docker, Git, Linux Administration  
-- **Other Areas:** Networking, Automation (Python & Bash), Security, Mathematics, Finance, Graphic Design, Front-end, Mobile Apps
-
-<br><br>
-
-## ❤️ My Passion for Software Engineering
-
-Every line of code I write is a step towards turning ideas into reality. I am continually learning and evolving, currently diving into math and data manipulation to power my next projects. I believe in the transformative power of technology and love the challenge of building scalable, elegant solutions. Let's connect and build something amazing together! :sparkles:
-
-Feel free to explore my repositories, and if you're interested in collaborating or just want to chat about tech, don't hesitate to reach out! :handshake:
+- **Backend:** FastAPI, Django REST Framework, Express.js, NestJS, Next.js API routes, Celery
+- **Frontend:** Next.js, React, basic UI work as needed to support products
+- **Databases:** PostgreSQL, MySQL, MongoDB, Redis, ElasticSearch
+- **Messaging & Realtime:** NATS.io, Kafka, WebSockets, Socket.io
+- **Automation & Scripting:** Python, Bash
+- **Web Crawling & Automation:** requests, BeautifulSoup, httpx, Playwright
+- **DevOps & Tooling:** Docker, Docker Swarm, Git, Linux administration, networking, CI/CD (GitHub Actions)
+- **Other:** security, penetration testing, Telegram bots, MikroTik networking
 
 ---
 
-### 📧 Contact Me
+## 💡 How I Think About Engineering
 
-Feel free to drop me an email at [violet.public@proton.me](mailto:violet.public@proton.me)
+- **Product‑aware engineering:** I care about why we are building something as much as how.
+- **Operational excellence:** logs, metrics, alerts, and runbooks are first‑class citizens.
+- **Security & correctness:** validation, least privilege, and defense‑in‑depth by default.
+- **Mentorship & collaboration:** I enjoy unblocking others and improving team practices.
 
-<be><br>
+I’m especially interested in the intersection of **backend systems, data engineering, and analytics**: building APIs and services that not only power products but also unlock better insights.
 
+---
+
+## 🤝 Let's Connect
+
+If you want to collaborate on backend, data‑heavy, or multi‑stack learning projects, feel free to reach out.
+
+- 📧 Email: [violet.public@proton.me](mailto:violet.public@proton.me)
+- 💻 GitHub: [@sam-soofy](https://github.com/sam-soofy)
+
+Thanks for stopping by — feel free to explore my repositories, especially the **multi‑stack issue tracker series** as it evolves.
