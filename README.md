@@ -18,7 +18,7 @@ I care about clean architecture, observability, security, and making systems eas
 
 - **Multi‑stack Issue Tracker Series**  
   A study‑oriented project where I implement the same issue‑tracking product across multiple stacks to compare patterns and trade‑offs:
-  - Full‑stack **Next.js** app (this repo)
+  - Full‑stack **Next.js** app
   - **NestJS** backend API
   - **FastAPI** backend API
   - **Django REST Framework** backend API
